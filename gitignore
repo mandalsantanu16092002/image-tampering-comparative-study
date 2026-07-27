@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Model checkpoints & weights (host separately - Releases / HF / Drive)
+*.pth
+*.pt
+*.h5
+*.ckpt
+checkpoints/
+weights/
+
+# Dataset (do not commit - link to source instead)
+data/
+datasets/
+CASIA*/
+
+# Logs & experiment tracking
+runs/
+logs/
+wandb/
+*.log
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Environment variables
+.env
