@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-Your local content
-=======
-GitHub README
->>>>>>> origin/main
+
 # A Comparative Study of Deep Learning Models for Image Tampering Detection (CASIA V2.0)
 
 This repository contains the implementation, trained models, and results for a comparative study of seven deep learning architectures — **ResNet-50**, **EfficientNet-B4**, **Vision Transformer (ViT)**, **Swin Transformer**, **ConvNeXt**, **CAT-Net**, and **ManTra-Net** — applied to image tampering (forgery) detection on the **CASIA V2.0** dataset.
